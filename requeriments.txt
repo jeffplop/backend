@@ -1,0 +1,2 @@
+pip install fastapi uvicorn sqlalchemy pydantic
+python -m uvicorn main:app --reload
